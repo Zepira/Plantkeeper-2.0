@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-plantkeeper-dev-103726-authRole",
+      "UnauthRoleArn": "arn:aws:iam::309988138683:role/amplify-plantkeeper-dev-103726-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::309988138683:role/amplify-plantkeeper-dev-103726-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-plantkeeper-dev-103726-deployment",
+      "UnauthRoleName": "amplify-plantkeeper-dev-103726-unauthRole",
+      "StackName": "amplify-plantkeeper-dev-103726",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:309988138683:stack/amplify-plantkeeper-dev-103726/72bfc380-7363-11ed-92d4-02bad6229dce",
+      "AmplifyAppId": "d1ti0jvyzx1p9y"
+    },
+    "categories": {
+      "api": {
+        "plantkeeper": {}
+      }
+    }
+  }
+}
