@@ -3,7 +3,7 @@ import { StyleSheet, View, SafeAreaView } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
 import { Amplify } from 'aws-amplify';
 import awsconfig from './src/aws-exports';
-import Home from './src/pages/Home';
+import Home from './src/pages/HomePage/Home';
 import LoadingScreen from './src/pages/LoadingScreen';
 
 Amplify.configure(awsconfig);

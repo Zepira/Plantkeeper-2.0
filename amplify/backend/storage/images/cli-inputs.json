@@ -1,0 +1,14 @@
+{
+  "resourceName": "images",
+  "policyUUID": "1adb82af",
+  "bucketName": "plantkeeper-images",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
